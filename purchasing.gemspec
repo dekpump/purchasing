@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["dekpump"]
-  s.date = %q{2011-03-26}
-  s.description = %q{TODO: This Project Extension For Spree Ecommerce with Purchasing Module}
+  s.date = %q{2011-03-27}
+  s.description = %q{This Project Extension For Spree Ecommerce with Purchasing Module}
   s.email = %q{sakarin@webwarestudios.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/purchasing.rb",
+    "purchasing.gemspec",
     "test/helper.rb",
     "test/test_purchasing.rb"
   ]
@@ -32,7 +33,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.1}
-  s.summary = %q{TODO: This Project Extension For Spree Ecommerce}
+  s.summary = %q{This Project Extension For Spree Ecommerce}
   s.test_files = [
     "test/helper.rb",
     "test/test_purchasing.rb"
