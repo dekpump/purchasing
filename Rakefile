@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "purchasing"
   gem.homepage = "http://github.com/dekpump/purchasing"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{TODO: This Project Extension For Spree Ecommerce}
+  gem.description = %Q{TODO: This Project Extension For Spree Ecommerce with Purchasing Module}
   gem.email = "sakarin@webwarestudios.com"
   gem.authors = ["dekpump"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
